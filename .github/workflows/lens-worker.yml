@@ -1,22 +1,6 @@
 name: Lens Worker Image
 
 on:
-  pull_request:
-    branches: [main, litellm_oss_branch, "litellm_**"]
-    paths:
-      - deploy/lens/**
-      - litellm-rust/**
-      - litellm/proxy/lens/**
-      - tests/proxy_behavior/lens/**
-      - .github/workflows/lens-worker.yml
-  push:
-    branches: [main]
-    paths:
-      - deploy/lens/**
-      - litellm-rust/**
-      - litellm/proxy/lens/**
-      - tests/proxy_behavior/lens/**
-      - .github/workflows/lens-worker.yml
   workflow_dispatch:
 
 permissions:

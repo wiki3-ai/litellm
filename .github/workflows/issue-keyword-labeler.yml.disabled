@@ -1,4 +1,4 @@
-name: Issue Keyword Labeler
+name: Disabled - Issue Keyword Labeler
 
 on:
   issues:

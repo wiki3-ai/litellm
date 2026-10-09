@@ -1,4 +1,4 @@
-name: Sync schema.prisma copies
+name: Disabled - Sync schema.prisma copies
 
 on:
   pull_request:

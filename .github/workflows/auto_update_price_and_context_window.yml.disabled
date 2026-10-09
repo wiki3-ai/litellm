@@ -1,4 +1,4 @@
-name: Updates model_prices_and_context_window.json and Create Pull Request
+name: Disabled - Updates model_prices_and_context_window.json and Create Pull Request
 
 on:
   schedule:

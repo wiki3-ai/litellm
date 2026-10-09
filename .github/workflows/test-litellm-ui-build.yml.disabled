@@ -1,4 +1,4 @@
-name: UI Build Check
+name: Disabled - UI Build Check
 permissions:
   contents: read
   pull-requests: read

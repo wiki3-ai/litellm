@@ -9,9 +9,6 @@ name: Publish lint base counts
 # every sha's artifact matters (any of them can become a merge-base).
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
     inputs:
       ref:

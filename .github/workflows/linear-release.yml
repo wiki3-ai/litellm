@@ -1,12 +1,6 @@
 name: Linear Release
 
 on:
-  push:
-    branches:
-      - main
-      - "rc/**"
-  release:
-    types: [published]
   workflow_call:
     inputs:
       rc_version:

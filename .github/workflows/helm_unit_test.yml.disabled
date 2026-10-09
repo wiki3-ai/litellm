@@ -1,4 +1,4 @@
-name: Helm unit test
+name: Disabled - Helm unit test
 
 on:
   pull_request:

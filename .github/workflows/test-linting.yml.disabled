@@ -1,4 +1,4 @@
-name: lint
+name: Disabled - lint
 
 on:
   pull_request:

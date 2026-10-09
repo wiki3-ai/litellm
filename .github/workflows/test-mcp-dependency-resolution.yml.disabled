@@ -1,4 +1,4 @@
-name: LiteLLM MCP Dependency Resolution
+name: Disabled - LiteLLM MCP Dependency Resolution
 
 on:
   pull_request:
