@@ -1,4 +1,4 @@
-name: Disabled - VS Code Extension
+name: VS Code Extension
 permissions:
   contents: read
 

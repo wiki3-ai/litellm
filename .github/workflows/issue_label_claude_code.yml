@@ -1,4 +1,4 @@
-name: Disabled - Issue label claude code
+name: Issue label claude code
 
 on:
   issues:

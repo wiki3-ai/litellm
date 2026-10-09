@@ -1,4 +1,4 @@
-name: Disabled - Check Schema Sync
+name: Check Schema Sync
 
 on:
   pull_request:

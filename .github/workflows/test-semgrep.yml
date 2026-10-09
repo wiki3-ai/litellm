@@ -1,4 +1,4 @@
-name: Disabled - Semgrep
+name: Semgrep
 
 on:
   pull_request:

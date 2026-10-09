@@ -1,4 +1,4 @@
-name: Disabled - GitHub Actions Security Analysis
+name: GitHub Actions Security Analysis
 
 on:
   push:

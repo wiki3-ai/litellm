@@ -1,4 +1,4 @@
-name: Disabled - Conventional PR Title
+name: Conventional PR Title
 
 # Squash-merge replaces the merge commit subject with the PR title, so
 # enforcing Conventional Commits at the PR-title level is what actually gates

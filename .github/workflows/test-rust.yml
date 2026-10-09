@@ -1,4 +1,4 @@
-name: Disabled - LiteLLM Rust
+name: LiteLLM Rust
 
 on:
   push:

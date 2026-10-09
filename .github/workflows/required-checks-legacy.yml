@@ -1,4 +1,4 @@
-name: Disabled - Required checks (legacy)
+name: Required checks (legacy)
 
 on:
   pull_request:

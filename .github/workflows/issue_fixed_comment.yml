@@ -1,6 +1,8 @@
 name: Issue fixed comment
 
 on:
+  issues:
+    types: [closed]
   workflow_dispatch:
     inputs:
       issue_number:
@@ -10,6 +12,12 @@ on:
         description: "Close every open pull request whose linked issues were all fixed on the default branch. Reads every open pull request, so run it at most once an hour."
         type: boolean
         default: false
+  pull_request:
+    paths:
+      - .github/workflows/issue_fixed_comment.yml
+      - scripts/comment-fixed-issue.ts
+      - scripts/comment-fixed-issue.test.ts
+      - scripts/auto-close-duplicates.ts
 
 permissions: {}
 

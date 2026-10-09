@@ -1,4 +1,4 @@
-name: Disabled - Guard fork dependency changes
+name: Guard fork dependency changes
 
 on:
   pull_request:

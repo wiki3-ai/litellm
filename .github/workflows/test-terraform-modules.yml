@@ -1,4 +1,4 @@
-name: Disabled - Terraform Modules
+name: Terraform Modules
 
 on:
   push:
@@ -56,3 +56,4 @@ jobs:
       # Plan-only, mock_provider-backed: no cloud credentials, no API calls.
       - name: test
         run: terraform test
+

@@ -1,4 +1,4 @@
-name: Disabled - Terraform Provider
+name: Terraform Provider
 
 on:
   push:
